@@ -1,0 +1,25 @@
+{
+  "name": "creatorui",
+  "version": "1.0.0",
+  "description": "A UI Library That Provides Special Elements To Create Amazing UIs And Also Gives You A Component-Based Arcitechture, Where You Can Create Reusable And Recycleable Components To Work With In Youre Code. This Uses The window.customElements.registerElement().",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No Test Specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nobodysbuddy/CreatorUI.git"
+  },
+  "keywords": [
+    "creator",
+    "creatorui",
+    "ui",
+    "newlybuild"
+  ],
+  "author": "Aryan Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nobodysbuddy/CreatorUI/issues"
+  },
+  "homepage": "https://github.com/Nobodysbuddy/CreatorUI#readme"
+}
